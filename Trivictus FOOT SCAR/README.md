@@ -19,8 +19,6 @@ STEP and F3D files have been provided.
 
 ## Images
 
-<img src="GHimages/ItsLikeSteppingOnLego.png" width="500">
-
 <img src="GHimages/TrivictusFoot 1.png" width="500">
 
 <img src="GHimages/TrivictusFoot 2.png" width="500">
@@ -36,3 +34,5 @@ STEP and F3D files have been provided.
 <img src="GHimages/TrivictusFoot 7.png" width="500">
 
 <img src="GHimages/TrivictusFoot 8.png" width="500">
+
+<img src="GHimages/ItsLikeSteppingOnLego.png" width="500">
