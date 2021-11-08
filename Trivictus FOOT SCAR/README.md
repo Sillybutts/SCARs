@@ -11,9 +11,6 @@ Blame RealNewDeal on the rNerf Discord for prompting me to make this abomination
 
 STEP and F3D files have been provided.
 
-### IF YOU ARE HAVING TROUBLE DOWNLOADING STEP FILES FROM GITHUB
-<img src="GHimages/GitHubSTEPfiledownloadtutorial.png" width="700">
-
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). We will also need to discuss with Thanh.**
 
