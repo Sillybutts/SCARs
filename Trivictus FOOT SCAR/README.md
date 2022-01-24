@@ -18,12 +18,14 @@ STEP and F3D files have been provided.
 
 ## If you like what I do, please consider supporting me:
 
+I don't charge for my files, so all donations or merch purchases are greatly appreciated!
+
 - I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
 - I have pages on Patreon and BuyMeACoffee! 
 - - https://www.patreon.com/sillybutts
 - - https://www.buymeacoffee.com/sillybutts 
 
-I don't charge for my files, so all donations or merch purchases are greatly appreciated!
+
 
 ## Images
 
