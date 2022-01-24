@@ -16,6 +16,15 @@ STEP and F3D files have been provided.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+## If you like what I do, please consider supporting me:
+
+- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.patreon.com/sillybutts
+- - https://www.buymeacoffee.com/sillybutts 
+
+I don't charge for my files, so all donations or merch purchases are greatly appreciated!
+
 ## Images
 
 <img src="GHimages/TrivictusFoot 1.png" width="500">
