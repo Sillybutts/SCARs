@@ -16,3 +16,4 @@ A collection of homemade Nerf SCARs. String Centering and Rotation.
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="Trivictus%20FOOT%20SCAR/GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts 
 
+And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
