@@ -28,5 +28,5 @@ https://www.buymeacoffee.com/sillybutts
 
 ## Images
 
-<img src="/NewAndromedaOldStyle1.jpg" width="500">
-<img src="/NewAndromedaOldStyle2.jpg" width="500">
+<img src="NewAndromedaOldStyle1.jpg" width="500">
+<img src="NewAndromedaOldStyle2.jpg" width="500">
