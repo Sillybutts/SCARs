@@ -4,7 +4,8 @@
 
 <img src="IMG_6893.jpg" width="500">
 
-Meant to fit the Gen4 Andromeda BCAR by EliWu, available here from Roboman: https://roboman.net/products/andromeda-bcar-kit
+# Meant to fit the Gen4 Andromeda BCAR by EliWu, available here from Roboman: https://roboman.net/products/andromeda-bcar-kit
+# This is just a shroud print. The rest of the BCAR is not made by me.
 
 This print needs tree supports and a brim. Recommended to print at 100% infill 5 walls.
 
