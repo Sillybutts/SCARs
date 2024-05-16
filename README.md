@@ -5,6 +5,10 @@ A collection of homemade Nerf SCARs. String Centering and Rotation.
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). If the design is a derrivative, we will also need to talk with the original creator.**
 
+<a href="https://www.printables.com/model/873465-spigot-scar-silly-scar-half-dart-and-megaxl"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/873465-spigot-scar-silly-scar-half-dart-and-megaxl
+
 
 ## If you like what I do, please consider supporting me!
 
