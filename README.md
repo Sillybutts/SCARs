@@ -1,6 +1,8 @@
 # SCARs
 A collection of homemade Nerf SCARs. String Centering and Rotation.
 
+SCARs marked 'Trivictus' are using remixed SCAR rifling geometry from Thanhtacles's SCAR design: https://www.thingiverse.com/thing:4967719
+
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). If the design is a derrivative, we will also need to talk with the original creator.**
